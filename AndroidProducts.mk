@@ -21,4 +21,7 @@ PRODUCT_MAKEFILES := \
 
 COMMON_LUNCH_CHOICES := \
     aosp_walleye-userdebug \
-    aosp_walleye_test-userdebug
+    aosp_walleye_test-userdebug \
+    revengeos_walleye-userdebug \
+    revengeos_walleye-user \
+    revengeos_walleye-eng \
