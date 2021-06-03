@@ -40,5 +40,4 @@ TARGET_RECOVERY_UI_LIB := \
     librecovery_ui_walleye \
     libfstab
 
-BOARD_PREBUILT_DTBOIMAGE := device/google/walleye-kernel/dtbo.img
 BOARD_DTBOIMG_PARTITION_SIZE := 8388608
