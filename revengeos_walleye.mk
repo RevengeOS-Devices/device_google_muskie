@@ -6,7 +6,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/google/muskie/aosp_walleye.mk)
+$(call inherit-product, device/google/walleye/aosp_walleye.mk)
 
 # Device identifiers
 PRODUCT_DEVICE := walleye
